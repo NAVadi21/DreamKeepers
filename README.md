@@ -2,6 +2,8 @@
 # DreamKeepers
 a user-friendly dream journal app for Android that enables users to effortlessly capture, organize, and revisit their dreams. With intuitive features like adding dream entries with dates, titles, and descriptions
 
+The files were too large to upload so i have added the important ones like the res folder / anim folder / java codes for 3 layouts / scr files / etc.
+
 # DreamKeepers - Dream Journal App
 
 DreamKeepers is a dream journal app developed for Android, allowing users to record and organize their dreams in a convenient and intuitive manner. I named the app originally "Aadat," which is derived from the Hindi word meaning "Habit," reflecting its purpose of helping users cultivate the habit of recording and exploring their dreams.
