@@ -19,7 +19,7 @@ DreamKeepers is a dream journal app developed for Android, allowing users to rec
 
 ## Getting Started
 
-To get started with dreamkeeper, follow these steps:
+To get started with dreamkeeper, You can follow these steps:
 
 1. Clone the repository: `git clone https://github.com/NAVadi21/DreamKeepers`
 2. Open the project in Android Studio.
