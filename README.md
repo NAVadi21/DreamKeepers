@@ -38,6 +38,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+Also under the GitHub License.
 
 ## Acknowledgments
 
