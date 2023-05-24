@@ -50,3 +50,4 @@ Also under the GitHub License.
 For any inquiries or feedback, please reach out to the project maintainer: https://github.com/NAVadi21
 
 Happy Dream Journaling with DreamKeeper!
+JainWin
