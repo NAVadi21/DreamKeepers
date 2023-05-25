@@ -33,7 +33,7 @@ To get started with dreamkeeper, You can follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have any ideas, suggestions, or bug fixes, please feel free to open an issue or submit a new pull request.
 
 ## License
 
