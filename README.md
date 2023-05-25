@@ -48,7 +48,8 @@ Also under the GitHub License.
 
 ## Contact
 
-For any inquiries or feedback, please reach out to the project maintainer: https://github.com/NAVadi21
+For any inquiries or feedback, 
+please reach out to the project Creator: https://github.com/NAVadi21
 
 Happy Dream Journaling with DreamKeeper!
 JainWin
