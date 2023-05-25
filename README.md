@@ -30,6 +30,7 @@ To get started with dreamkeeper, You can follow these steps:
 
 - Android Studio (Latest Version)
 - Android SDK (latest version)
+- Java language Knowledge
 
 ## Contributing
 
