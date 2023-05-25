@@ -14,7 +14,7 @@ DreamKeepers is a dream journal app developed for Android, allowing users to rec
 - **RecyclerView:** The app utilizes a RecyclerView to present the dream list, enabling smooth scrolling and efficient navigation through dreams.
 - **Floating Action Button:** A floating action button is available to provide a quick and effortless way for users to add new dreams to their journal.
 - **Dialog Box:** When adding a new dream, a user-friendly dialog box appears, prompting users to enter the dream's date, title and edit the description.
-- **Animation:** The main activity of Aadat features a visually appealing animation effect (fade-in) that enhances the overall user experience.
+- **Animation:** The main activity of Aadat features a visually awesome animation effect (fade-in) that enhances the overall user experience.
 - **Custom Adapter:** Aadat employs a custom adapter called DreamAdapter to efficiently manage and handle the dream list within the RecyclerView.
 
 ## Getting Started
